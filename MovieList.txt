@@ -1,0 +1,10 @@
+{'Titanic 155, age restrict 15 '}
+{'Harry Potter 135, subtitle Ro '}
+{'Inception 15, age restrict 15 '}
+{'Bee movie 110, subtitle 5 '}
+{'Ghost 120, age restrict 15'}
+{'Pokemon 22, subtitle 5'}
+{'Gatsby 125, age restrict 12'}
+{'Kung Fu panda 90, subtitle 5'}
+{'Fury 128, age restrict 16'}
+{'Naruto 15, subtitle English'}
